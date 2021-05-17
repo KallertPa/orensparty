@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/map.json#start_space"
+                 "value":"https:\/\/play.workadventu.re\/@\/oren\/party\/partypit#start_space"
                 }],
          "type":"tilelayer",
          "visible":true,
